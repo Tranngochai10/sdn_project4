@@ -8,7 +8,7 @@ import QuizListPage from './pages/QuizListPage';
 import QuizDetailPage from './pages/QuizDetailPage';
 import AdminQuizzesPage from './pages/AdminQuizzesPage';
 import AdminQuestionsPage from './pages/AdminQuestionsPage';
-
+// Main application component with routing
 function App() {
   return (
     <div className="min-vh-100" style={{ background: '#f8f9fa' }}>
